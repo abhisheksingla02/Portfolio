@@ -1,0 +1,17 @@
+body {
+    color: #d3d3d3;
+    font-weight: 300;
+    font-family: "Overpass", sans-serif;
+    font-family: "Overpass", sans-serif;
+    background-image: url("../images/Tile.jpg");
+}
+.smalltext {
+    font-family: "Overpass", sans-serif;
+}
+.lowerdescription {
+    text-align: center;
+}
+.logo {
+    height: 100%;
+    width: 20%;
+}
